@@ -1,4 +1,4 @@
-#Author: nezam.uddin@gmail.com
+
 #Keywords Summary :
 @CucumberProject
 Feature: Cucumber Practice
