@@ -6,6 +6,7 @@ public class UI extends TestBase {
 		reporter.log(Status.INFO, "Navigated to: " + url);
 	}
 	
+
 	
 	
 	public static JavascriptExecutor getJavaScriptExecutor() {

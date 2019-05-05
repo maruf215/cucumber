@@ -15,6 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class UI {
 	
 	
+
 	public static WebDriver driver;
 	private List<String> windowsHandles = new ArrayList<>();
 	private final int LOCATOR_ID = 0;
